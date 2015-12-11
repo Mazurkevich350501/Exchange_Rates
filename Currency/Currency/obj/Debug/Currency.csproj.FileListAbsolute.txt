@@ -1,0 +1,9 @@
+E:\перекинуть\Study\5sem\TRiTPO\Currency\Currency\bin\Debug\Currency.exe.config
+E:\перекинуть\Study\5sem\TRiTPO\Currency\Currency\obj\Debug\Currency.csprojResolveAssemblyReference.cache
+E:\перекинуть\Study\5sem\TRiTPO\Currency\Currency\obj\Debug\Currency.MainWindow.resources
+E:\перекинуть\Study\5sem\TRiTPO\Currency\Currency\obj\Debug\Currency.Properties.Resources.resources
+E:\перекинуть\Study\5sem\TRiTPO\Currency\Currency\obj\Debug\Currency.csproj.GenerateResource.Cache
+E:\перекинуть\Study\5sem\TRiTPO\Currency\Currency\bin\Debug\Currency.exe
+E:\перекинуть\Study\5sem\TRiTPO\Currency\Currency\bin\Debug\Currency.pdb
+E:\перекинуть\Study\5sem\TRiTPO\Currency\Currency\obj\Debug\Currency.exe
+E:\перекинуть\Study\5sem\TRiTPO\Currency\Currency\obj\Debug\Currency.pdb
